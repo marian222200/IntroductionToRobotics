@@ -19,10 +19,10 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 • Coding task: Coding style is of utmost importance.  You must have a perfectly clean code in order to receive the maximum grade.  Keep in mind that magic numbers are not accepted, although you might see them in the lab (as a trade-off for speed).  Remember to be consistent in your style, check  the  style  guide  and  the  provided  style  document  and  use  correct spacing.
 
 
-#The solution for the homework is:
+#The solution for the homework is in the folder "Tema 1":
 
-• The picture is here: 
+• The picture is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/poza_tema_robotica_1.jpeg
 
-• The video showcasing the functionality is here: 
+• The video showcasing the functionality is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/clip_tema_robotica_1.mp4
 
 • The file with the code is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/codTema.ino
