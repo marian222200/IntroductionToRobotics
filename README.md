@@ -6,7 +6,7 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 <details>
 <summary>Homework 1</summary>
-  <br>
+<br>
 The homework consists of the following:
   
 • Components:  RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
@@ -31,7 +31,7 @@ The solution for the homework is in the folder "Tema 1":
 </details>
 
 <details>
-<summary>Homework 1</summary>
-<br>
+<summary>Homework 2</summary>
 The homework consists of the following:
+<br>
 </details>
