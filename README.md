@@ -56,9 +56,13 @@ Be careful: pressing the button in any state other than state 1 should NOT start
   
 The solution for the homework is in the folder "Tema 2":
   
-• The picture is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/poza_tema_robotica_1.jpeg
+• The picture is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%202/poza_tema_robotica_2.png
 
-• The video showcasing the functionality is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/clip_tema_robotica_1.mp4
+• The video showcasing the functionality is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%202/clip_tema_robotica_2.mp4
 
-• The file with the code is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/codTema.ino
+• The file with the code is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%202/varianta_finala.ino
+  
+• The second methode (different code): https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%202/varianta_steps.ino
+  
+• The file containing the tones: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%202/pitches.h
 </details>
