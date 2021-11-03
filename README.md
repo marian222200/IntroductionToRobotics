@@ -34,3 +34,4 @@ The solution for the homework is in the folder "Tema 1":
 <summary>Homework 1</summary>
 <br>
 The homework consists of the following:
+</details>
