@@ -7,7 +7,7 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 <details>
 <summary>Homework 1</summary>
   
-  
+  <br>
 The homework consists of the following:
   
   
