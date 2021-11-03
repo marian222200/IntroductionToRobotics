@@ -32,6 +32,6 @@ The solution for the homework is in the folder "Tema 1":
 
 <details>
 <summary>Homework 2</summary>
-The homework consists of the following:
 <br>
+The homework consists of the following:
 </details>
