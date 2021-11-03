@@ -6,9 +6,11 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 <details>
 <summary>Homework 1</summary>
-<br>
+  
+  
 The homework consists of the following:
-<br>
+  
+  
 • Components:  RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
 
 • Technical Task: Use a separate potentiometer in controlling each of the colors of the RGB led (Red, Green and Blue). The control must be done with digital electronics (you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led.
