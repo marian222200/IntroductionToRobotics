@@ -2,9 +2,9 @@
 
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
 
-
-## Homework 1
-
+<details>
+<summary>Homework 1</summary>
+<br>
 The homework consists of the following:
 
 • Components:  RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
@@ -26,3 +26,4 @@ The solution for the homework is in the folder "Tema 1":
 • The video showcasing the functionality is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/clip_tema_robotica_1.mp4
 
 • The file with the code is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/codTema.ino
+</details>
