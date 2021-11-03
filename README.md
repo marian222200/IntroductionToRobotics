@@ -29,3 +29,8 @@ The solution for the homework is in the folder "Tema 1":
 
 • The file with the code is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%201/codTema.ino
 </details>
+
+<details>
+<summary>Homework 1</summary>
+<br>
+The homework consists of the following:
