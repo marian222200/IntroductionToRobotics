@@ -102,4 +102,4 @@ The solution for the homework is in the folder "Tema 3":
 • The second method code (maximum of multimple averages of a samples of readings over a certain period of time) is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%203/variant_max_of_average_of_sample.ino
   
 • The third method code (maximum of readings over a certain period of time): https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%203/variant_max_over_time.ino
-</details></details>
+</details>
