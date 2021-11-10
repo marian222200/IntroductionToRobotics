@@ -74,9 +74,7 @@ The homework consists of the following:
   
 • Components: a buzzer and a 7-segment display (or a led bar / or 8 leds in a row that simulate a led bar)
   
-• General description: Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
-  
-• Task: should detect EMF (check body and near outlets). It should print the value on the 7-segment display (or light the led bar)and should make a sound based on the intensity.
+• Task: should detect EMF (check body and near outlets). It should print the value on the 7-segment display (or light the led bar) and should make a sound based on the intensity.
 
 • The catch: it’s really easy, but one of the mistakes you can do is not to calibrate for the interval on the values you are going to get. Check the link on calibrations.
 
@@ -86,7 +84,7 @@ The homework consists of the following:
 3.  Link to video showcasing functionality
 
 Just to be clear: the input is the EMF using a home-made antenna (can be a wire and a resistor) and the output is some sort of lighting (7-segment values, leds lighting up etc.) and a buzzer with intensity (change the 2nd parameter in the tone function based on the intensity).
-The purpose of this project is, first of all, to have a bit of fun and also let you be creative (or lazy) with it.  Bonus points for extra effort.
+The purpose of this project is, first of all, to have a bit of fun and also let you be creative (or lazy) with it. Bonus points for extra effort.
 
 
 The solution for the homework is in the folder "Tema 3":
