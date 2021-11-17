@@ -101,3 +101,4 @@ The solution for the homework is in the folder "Tema 3":
   
 • The third method code (maximum of readings over a certain period of time): https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%203/variant_max_over_time.ino
 </details>
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
