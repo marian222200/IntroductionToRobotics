@@ -120,10 +120,6 @@ The current homework involves using a joystick in setting the values on each dig
 2.  Picture of the setup
 3.  Link to video showcasing functionality
 
-Just to be clear: the input is the EMF using a home-made antenna (can be a wire and a resistor) and the output is some sort of lighting (7-segment values, leds lighting up etc.) and a buzzer with intensity (change the 2nd parameter in the tone function based on the intensity).
-The purpose of this project is, first of all, to have a bit of fun and also let you be creative (or lazy) with it. Bonus points for extra effort.
-
-
 The solution for the homework is in the folder "Tema 4":
   
 • The picture is here: https://github.com/marian222200/IntroductionToRobotics/blob/main/Tema%204/pozaTema4.jpeg
